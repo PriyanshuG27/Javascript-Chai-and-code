@@ -45,5 +45,3 @@ Then add 1 to it so that we can avoid the 0 in the output.
 Then we added min to make the output above the min value and below max value.
 At last we use Math.floor so that we can get only the int part of the ans */
 
-// new git file 
-
