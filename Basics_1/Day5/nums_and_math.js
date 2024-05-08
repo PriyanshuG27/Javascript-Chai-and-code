@@ -18,7 +18,7 @@ const othernum = 123.8983
 // `toFixed()` is used for controlling the number of decimal places and returns a string.
 // `toPrecision()` is used for controlling the precision (number of significant digits) and returns a string.
 
-// const hundreds = 100000000
+// const hundreds =100000000
 // console.log(hundreds.toLocaleString('en-IN')); //Makes the number a string and adds commas to it at their places acc to the place given in the command (en-IN) 
 
 //+++++++++++++++++++++++++++++MATHS++++++++++++++++++++++++++++++
@@ -44,3 +44,6 @@ Then we multipy it by the difference of (max and min).
 Then add 1 to it so that we can avoid the 0 in the output.
 Then we added min to make the output above the min value and below max value.
 At last we use Math.floor so that we can get only the int part of the ans */
+
+// new git file 
+
